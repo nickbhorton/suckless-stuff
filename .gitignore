@@ -1,4 +1,8 @@
 *.o
+*compile_commands.json
+.cache
+
+
 dmenu/dmenu-5.3/dmenu
 dmenu/dmenu-5.3/stest
 dwm/dwm-6.5/dwm
